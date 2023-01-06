@@ -8,25 +8,12 @@
       "id": 1
     },
     {
-      "email": "fulano@mail.com",
-      "password": "$2a$10$Um.YyW3k/.cFLx1pK6cibOi3snzjNLS4vjG4jMmUYKbB3LdzUS.Lm",
-      "name": "Kenzinho",
-      "age": 38,
-      "id": 2
-    },
-    {
-      "email": "eduardo@mail.com",
-      "password": "$2a$10$5cuGhVJo6eb1gczPjTa5CO.jMoGsD0/iLiyx2jXGP9KwLGBUj5bia",
-      "name": "Eduardo",
+      "email": "admin@admin.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "ADMIN",
       "age": 36,
-      "id": 3
-    },
-    {
-      "email": "bert@mail.com",
-      "password": "$2a$10$1TrndhL5CveThcz64JnATOvnlNGrkNv4dKEQdPL/WUo1vWoO6ixmC",
-      "name": "Bert",
-      "age": 36,
-      "id": 4
+      "id": 2,
+      "isAdmin": true
     }
   ],
   "unity": [
